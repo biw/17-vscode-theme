@@ -1,22 +1,23 @@
 {
-    "name": "17",
-    "displayName": "17",
-    "description": "Basic Theme",
-    "version": "0.0.1",
-    "publisher": "719ben",
-    "engines": {
-        "vscode": "^1.25.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "17",
-                "uiTheme": "vs-dark",
-                "path": "./themes/17-color-theme.json"
-            }
-        ]
-    }
+  "name": "17",
+  "displayName": "17",
+  "description": "Theme by github.com/biw",
+  "repository": "https://github.com/biw/17-vscode-theme",
+  "version": "1.0.0",
+  "publisher": "biw",
+  "engines": {
+    "vscode": "^1.25.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "17",
+        "uiTheme": "vs-dark",
+        "path": "./themes/17-color-theme.json"
+      }
+    ]
+  }
 }
